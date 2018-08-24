@@ -364,8 +364,8 @@ people used to editing arrays.
 ```@docs
 push!
 pop!
-shift!
-unshift!
+popfirst!
+pushfirst!
 insert!
 deleteat!(::BioSequences.BioSequence, ::Integer)
 append!
